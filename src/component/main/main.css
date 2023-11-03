@@ -1,0 +1,175 @@
+.firstbox{
+    background-color: #e7e7e7 ;
+    margin-top: 5rem;
+    height: 45rem;
+    margin-left: 10%;
+    margin-right:10%;
+    border-radius: 2rem;
+    box-shadow: 0px 6px 20px 0px;
+    /* background-image: url('rename.jpg'); */
+}
+
+.left{
+/* float: left;
+margin-top: 4rem;
+
+display: inline-block;
+margin-left: 2rem;
+width: 201px;
+height: 220px; */
+display: none;
+
+}
+
+@media all and (min-width:1143px){
+    .left{
+        float: left;
+        margin-top: 4rem;
+        
+        display: inline-block;
+        margin-left: 2rem;
+        width: 201px;
+        height: 220px;
+    }
+}
+
+
+.l1{
+    /* font-family: 'Fraunces'; */
+    font-size: thin;
+    /* width: 191px;
+    height: 81px; */
+}
+
+
+#amz{
+    font-size: large;
+    font-family: 'Fraunces';
+    margin-bottom:0px ;
+    /* text-align: center; */
+}
+.imgl1{
+    background-image: url('l1.webp');
+    height: 150px;
+    width: 200px;
+    /* margin-left: 1.5rem; */
+}
+.imgl2{
+    background-image: url('l2.webp');
+    height: 150px;
+    width: 200px; 
+}
+
+.center{
+ margin-top: 4rem;
+    /* background-color: rgb(43, 226, 177); */
+    display: inline-block;
+    margin-left: 9%;
+    /* background-image: url('center.webp');
+    background-size: cover;
+    width: 585px;
+    height: 585px; */
+    
+    }
+
+    .cimg{
+        background-image: url('center.webp');
+        background-size: cover;
+        width: 585px;
+        height: 500px;
+    }
+
+    .ctext{
+        font-size: 40px;
+        width: 585px;
+        font-family: 'Fraunces';
+    }
+
+.right{
+        /* padding: 5%;
+        margin-right: 2rem;
+        margin-top: -38rem;
+        
+        width: 201px;
+        display: inline-block;
+        float: right; */
+display: none;
+        
+        /* margin-left: 5%; */
+        
+ }
+ @media all and (min-width:1385px){
+    .right{
+    display: block !important;
+    padding: 5%;
+        margin-right: 2rem;
+        margin-top: -38rem;
+        
+        width: 201px;
+        display: inline-block;
+        float: right;
+    }
+}
+
+ .r1 , .r2{
+    margin-top: 2rem;
+ }
+/* Climate change */
+
+#cc{
+    margin-top: 6rem;
+    margin-bottom: 4rem;
+    margin-left: 10rem;
+    font-size: 34px;
+    font-family: 'fraunces';
+    
+}
+
+.ci1{
+    margin-left: 14%;
+    /* background-image: url('cc1.webp');
+    height: 300px;
+    width: 300px; */
+    display: inline-block;
+}
+.cim1{
+    background-image: url('cc1.webp');
+    height: 300px;
+    width: 300px;
+}
+.ci2{
+    /* background-image: url('cc2.webp');
+    height: 100px;
+    width: 100px; */
+    display: inline-block;
+    margin-left: 7%;
+    width: 300px;
+}
+.cim2{
+    background-image: url('cc2.webp');
+    height: 246px;
+    width: 300px;
+}
+.ci3{
+    margin-left: 7%;
+    /* background-image: url('cc3.webp');
+    height: 100px;
+    width: 100px; */
+    display: inline-block;
+}
+.cim3{
+    background-image: url('cc3.webp');
+    height: 280px;
+    width: 300px;
+}
+#c1 , #c2 , #c3{
+    font-family: 'fraunces';
+    font-size: 20px;
+}
+#cc1 , #cc2 , #cc3{
+    width: 300px;
+    text-align: center;
+}
+
+
+

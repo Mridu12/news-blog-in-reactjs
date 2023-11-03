@@ -1,0 +1,20 @@
+
+
+.prouser{
+    background-color: rgb(9, 22, 40);
+    color: white;
+    text-align: center;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.points{
+    margin-top: 3rem;
+    margin-left: 1%;
+}
+
+.btnlast{
+    margin-top: 3rem;
+    padding: 0.5rem 2rem !important;
+    border-radius: 5rem !important;
+}

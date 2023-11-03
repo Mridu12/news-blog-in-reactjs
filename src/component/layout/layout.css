@@ -1,0 +1,12 @@
+.laytp{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+li{
+display: inline-block;
+margin-left: 2rem;
+font-family: "Fraunces";
+font-size: 30px;
+
+}
