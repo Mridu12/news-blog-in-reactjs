@@ -1,0 +1,10 @@
+import React from 'react'
+import './open.css';
+
+const Open = () => {
+  return (
+    <div>Open</div>
+  )
+}
+
+export default Open;

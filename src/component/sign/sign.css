@@ -1,0 +1,20 @@
+.signin{
+    margin-top: 15rem;
+    margin-bottom: 23rem;
+}
+
+#Emails{
+    font-size: 30px;
+text-align: center;
+font-family: 'Fraunces';
+}
+
+#Password{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Fraunces';
+}
+
+.btnlast{
+    margin-left: 47%;
+}

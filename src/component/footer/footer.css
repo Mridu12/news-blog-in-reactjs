@@ -1,0 +1,48 @@
+.footer{
+    /* margin-top: 2rem; */
+    padding-bottom: 4rem;
+    padding-top: 7rem;
+    background-color: #c2ffe3;
+}
+.textbox{
+    
+    font-family: 'Fraunces' ;
+    width: 40rem;
+    padding-left: 10rem;
+    font-size: 45px;
+    display: inline-block;
+}
+
+#mail{
+    width: 40%;
+    display: inline-block !important;
+    margin-left: 4rem;
+    border-top:0px !important;
+    border-left:0px !important;
+    border-right:0px !important;
+    /* border-bottom: 2px; */
+    border-color: black;
+    border-radius: 0px !important;
+    background-color: transparent !important;
+
+
+}
+
+#btn{
+    height: 2.95rem !important;
+    margin-bottom: 0.4rem;
+    border-radius: 0px ;
+    background-color: transparent;
+    border-color: black;
+    color: black;
+    border-top: none;
+    border-right:none;
+    border-left: none;
+    /* border-top:0px !important;
+    background-color: transparent !important; */
+}
+
+#btn:hover{
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,33 @@
+.each-slide-effect {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 350px;
+  }
+  
+  .each-slide-effect span {
+    padding: 20rem;
+    font-size: 20px;
+    background: #efefef;
+    text-align: center;
+  }
+
+  .ci1{
+    background-image: url('cc1.webp');
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+.ci2{
+    background-image: url('cc2.webp');
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+.ci3{
+    background-image: url('cc3.webp');
+    height: 20rem !important;
+    width: 20rem !important;
+    display: inline-block;
+}
